@@ -1,0 +1,15 @@
+C:\DEV\logica_algoritmos-C#\08relationalOP\bin\Debug\net9.0\08relationalOP.exe
+C:\DEV\logica_algoritmos-C#\08relationalOP\bin\Debug\net9.0\08relationalOP.deps.json
+C:\DEV\logica_algoritmos-C#\08relationalOP\bin\Debug\net9.0\08relationalOP.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\08relationalOP\bin\Debug\net9.0\08relationalOP.dll
+C:\DEV\logica_algoritmos-C#\08relationalOP\bin\Debug\net9.0\08relationalOP.pdb
+C:\DEV\logica_algoritmos-C#\08relationalOP\obj\Debug\net9.0\08relationalOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\08relationalOP\obj\Debug\net9.0\08relationalOP.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\08relationalOP\obj\Debug\net9.0\08relationalOP.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\08relationalOP\obj\Debug\net9.0\08relationalOP.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\08relationalOP\obj\Debug\net9.0\08relationalOP.sourcelink.json
+C:\DEV\logica_algoritmos-C#\08relationalOP\obj\Debug\net9.0\08relationalOP.dll
+C:\DEV\logica_algoritmos-C#\08relationalOP\obj\Debug\net9.0\refint\08relationalOP.dll
+C:\DEV\logica_algoritmos-C#\08relationalOP\obj\Debug\net9.0\08relationalOP.pdb
+C:\DEV\logica_algoritmos-C#\08relationalOP\obj\Debug\net9.0\08relationalOP.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\08relationalOP\obj\Debug\net9.0\ref\08relationalOP.dll
