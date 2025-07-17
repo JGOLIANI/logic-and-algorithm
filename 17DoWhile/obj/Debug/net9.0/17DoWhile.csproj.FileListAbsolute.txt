@@ -1,0 +1,15 @@
+C:\DEV\logica_algoritmos-C#\17DoWhile\bin\Debug\net9.0\17DoWhile.exe
+C:\DEV\logica_algoritmos-C#\17DoWhile\bin\Debug\net9.0\17DoWhile.deps.json
+C:\DEV\logica_algoritmos-C#\17DoWhile\bin\Debug\net9.0\17DoWhile.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\17DoWhile\bin\Debug\net9.0\17DoWhile.dll
+C:\DEV\logica_algoritmos-C#\17DoWhile\bin\Debug\net9.0\17DoWhile.pdb
+C:\DEV\logica_algoritmos-C#\17DoWhile\obj\Debug\net9.0\17DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\17DoWhile\obj\Debug\net9.0\17DoWhile.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\17DoWhile\obj\Debug\net9.0\17DoWhile.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\17DoWhile\obj\Debug\net9.0\17DoWhile.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\17DoWhile\obj\Debug\net9.0\17DoWhile.sourcelink.json
+C:\DEV\logica_algoritmos-C#\17DoWhile\obj\Debug\net9.0\17DoWhile.dll
+C:\DEV\logica_algoritmos-C#\17DoWhile\obj\Debug\net9.0\refint\17DoWhile.dll
+C:\DEV\logica_algoritmos-C#\17DoWhile\obj\Debug\net9.0\17DoWhile.pdb
+C:\DEV\logica_algoritmos-C#\17DoWhile\obj\Debug\net9.0\17DoWhile.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\17DoWhile\obj\Debug\net9.0\ref\17DoWhile.dll

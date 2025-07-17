@@ -1,0 +1,15 @@
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\obj\Debug\net9.0\15SwitchExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\obj\Debug\net9.0\15SwitchExpression.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\obj\Debug\net9.0\15SwitchExpression.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\obj\Debug\net9.0\15SwitchExpression.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\obj\Debug\net9.0\15SwitchExpression.sourcelink.json
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\bin\Debug\net9.0\15SwitchExpression.exe
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\bin\Debug\net9.0\15SwitchExpression.deps.json
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\bin\Debug\net9.0\15SwitchExpression.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\bin\Debug\net9.0\15SwitchExpression.dll
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\bin\Debug\net9.0\15SwitchExpression.pdb
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\obj\Debug\net9.0\15SwitchExpression.dll
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\obj\Debug\net9.0\refint\15SwitchExpression.dll
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\obj\Debug\net9.0\15SwitchExpression.pdb
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\obj\Debug\net9.0\15SwitchExpression.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\15SwitchExpression\obj\Debug\net9.0\ref\15SwitchExpression.dll

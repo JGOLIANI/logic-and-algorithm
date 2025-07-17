@@ -11,4 +11,6 @@ switch (player)
     case "Kobe Bryant":
         Console.WriteLine("Mamba");
         break;
+    default:
+        Console.WriteLine("Player");
 }
