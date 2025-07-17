@@ -1,0 +1,14 @@
+C:\DEV\logica_algoritmos-C#\05interaction\obj\Debug\net9.0\05interaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\05interaction\obj\Debug\net9.0\05interaction.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\05interaction\obj\Debug\net9.0\05interaction.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\05interaction\obj\Debug\net9.0\05interaction.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\05interaction\bin\Debug\net9.0\05interaction.exe
+C:\DEV\logica_algoritmos-C#\05interaction\bin\Debug\net9.0\05interaction.deps.json
+C:\DEV\logica_algoritmos-C#\05interaction\bin\Debug\net9.0\05interaction.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\05interaction\bin\Debug\net9.0\05interaction.dll
+C:\DEV\logica_algoritmos-C#\05interaction\bin\Debug\net9.0\05interaction.pdb
+C:\DEV\logica_algoritmos-C#\05interaction\obj\Debug\net9.0\05interaction.dll
+C:\DEV\logica_algoritmos-C#\05interaction\obj\Debug\net9.0\refint\05interaction.dll
+C:\DEV\logica_algoritmos-C#\05interaction\obj\Debug\net9.0\05interaction.pdb
+C:\DEV\logica_algoritmos-C#\05interaction\obj\Debug\net9.0\05interaction.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\05interaction\obj\Debug\net9.0\ref\05interaction.dll

@@ -1,0 +1,14 @@
+C:\DEV\logica_algoritmos-C#\04concat\bin\Debug\net9.0\04concat.exe
+C:\DEV\logica_algoritmos-C#\04concat\bin\Debug\net9.0\04concat.deps.json
+C:\DEV\logica_algoritmos-C#\04concat\bin\Debug\net9.0\04concat.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\04concat\bin\Debug\net9.0\04concat.dll
+C:\DEV\logica_algoritmos-C#\04concat\bin\Debug\net9.0\04concat.pdb
+C:\DEV\logica_algoritmos-C#\04concat\obj\Debug\net9.0\04concat.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\04concat\obj\Debug\net9.0\04concat.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\04concat\obj\Debug\net9.0\04concat.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\04concat\obj\Debug\net9.0\04concat.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\04concat\obj\Debug\net9.0\04concat.dll
+C:\DEV\logica_algoritmos-C#\04concat\obj\Debug\net9.0\refint\04concat.dll
+C:\DEV\logica_algoritmos-C#\04concat\obj\Debug\net9.0\04concat.pdb
+C:\DEV\logica_algoritmos-C#\04concat\obj\Debug\net9.0\04concat.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\04concat\obj\Debug\net9.0\ref\04concat.dll

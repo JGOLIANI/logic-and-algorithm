@@ -1,0 +1,14 @@
+C:\DEV\logica_algoritmos-C#\06convert\bin\Debug\net9.0\06convert.exe
+C:\DEV\logica_algoritmos-C#\06convert\bin\Debug\net9.0\06convert.deps.json
+C:\DEV\logica_algoritmos-C#\06convert\bin\Debug\net9.0\06convert.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\06convert\bin\Debug\net9.0\06convert.dll
+C:\DEV\logica_algoritmos-C#\06convert\bin\Debug\net9.0\06convert.pdb
+C:\DEV\logica_algoritmos-C#\06convert\obj\Debug\net9.0\06convert.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\06convert\obj\Debug\net9.0\06convert.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\06convert\obj\Debug\net9.0\06convert.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\06convert\obj\Debug\net9.0\06convert.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\06convert\obj\Debug\net9.0\06convert.dll
+C:\DEV\logica_algoritmos-C#\06convert\obj\Debug\net9.0\refint\06convert.dll
+C:\DEV\logica_algoritmos-C#\06convert\obj\Debug\net9.0\06convert.pdb
+C:\DEV\logica_algoritmos-C#\06convert\obj\Debug\net9.0\06convert.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\06convert\obj\Debug\net9.0\ref\06convert.dll

@@ -1,0 +1,14 @@
+C:\DEV\logica_algoritmos-C#\07arithmeticOP\bin\Debug\net9.0\07arithmeticOP.exe
+C:\DEV\logica_algoritmos-C#\07arithmeticOP\bin\Debug\net9.0\07arithmeticOP.deps.json
+C:\DEV\logica_algoritmos-C#\07arithmeticOP\bin\Debug\net9.0\07arithmeticOP.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\07arithmeticOP\bin\Debug\net9.0\07arithmeticOP.dll
+C:\DEV\logica_algoritmos-C#\07arithmeticOP\bin\Debug\net9.0\07arithmeticOP.pdb
+C:\DEV\logica_algoritmos-C#\07arithmeticOP\obj\Debug\net9.0\07arithmeticOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\07arithmeticOP\obj\Debug\net9.0\07arithmeticOP.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\07arithmeticOP\obj\Debug\net9.0\07arithmeticOP.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\07arithmeticOP\obj\Debug\net9.0\07arithmeticOP.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\07arithmeticOP\obj\Debug\net9.0\07arithmeticOP.dll
+C:\DEV\logica_algoritmos-C#\07arithmeticOP\obj\Debug\net9.0\refint\07arithmeticOP.dll
+C:\DEV\logica_algoritmos-C#\07arithmeticOP\obj\Debug\net9.0\07arithmeticOP.pdb
+C:\DEV\logica_algoritmos-C#\07arithmeticOP\obj\Debug\net9.0\07arithmeticOP.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\07arithmeticOP\obj\Debug\net9.0\ref\07arithmeticOP.dll

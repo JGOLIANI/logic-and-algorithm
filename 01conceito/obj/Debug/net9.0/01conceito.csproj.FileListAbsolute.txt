@@ -1,0 +1,14 @@
+C:\DEV\logica_algoritmos-C#\01conceito\bin\Debug\net9.0\01conceito.exe
+C:\DEV\logica_algoritmos-C#\01conceito\bin\Debug\net9.0\01conceito.deps.json
+C:\DEV\logica_algoritmos-C#\01conceito\bin\Debug\net9.0\01conceito.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\01conceito\bin\Debug\net9.0\01conceito.dll
+C:\DEV\logica_algoritmos-C#\01conceito\bin\Debug\net9.0\01conceito.pdb
+C:\DEV\logica_algoritmos-C#\01conceito\obj\Debug\net9.0\01conceito.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\01conceito\obj\Debug\net9.0\01conceito.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\01conceito\obj\Debug\net9.0\01conceito.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\01conceito\obj\Debug\net9.0\01conceito.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\01conceito\obj\Debug\net9.0\01conceito.dll
+C:\DEV\logica_algoritmos-C#\01conceito\obj\Debug\net9.0\refint\01conceito.dll
+C:\DEV\logica_algoritmos-C#\01conceito\obj\Debug\net9.0\01conceito.pdb
+C:\DEV\logica_algoritmos-C#\01conceito\obj\Debug\net9.0\01conceito.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\01conceito\obj\Debug\net9.0\ref\01conceito.dll
