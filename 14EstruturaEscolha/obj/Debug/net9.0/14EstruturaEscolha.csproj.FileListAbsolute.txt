@@ -1,0 +1,15 @@
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\bin\Debug\net9.0\14EstruturaEscolha.exe
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\bin\Debug\net9.0\14EstruturaEscolha.deps.json
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\bin\Debug\net9.0\14EstruturaEscolha.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\bin\Debug\net9.0\14EstruturaEscolha.dll
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\bin\Debug\net9.0\14EstruturaEscolha.pdb
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\obj\Debug\net9.0\14EstruturaEscolha.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\obj\Debug\net9.0\14EstruturaEscolha.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\obj\Debug\net9.0\14EstruturaEscolha.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\obj\Debug\net9.0\14EstruturaEscolha.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\obj\Debug\net9.0\14EstruturaEscolha.sourcelink.json
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\obj\Debug\net9.0\14EstruturaEscolha.dll
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\obj\Debug\net9.0\refint\14EstruturaEscolha.dll
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\obj\Debug\net9.0\14EstruturaEscolha.pdb
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\obj\Debug\net9.0\14EstruturaEscolha.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\14EstruturaEscolha\obj\Debug\net9.0\ref\14EstruturaEscolha.dll

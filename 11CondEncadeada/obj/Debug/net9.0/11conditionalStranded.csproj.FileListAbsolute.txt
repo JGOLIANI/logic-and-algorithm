@@ -1,0 +1,15 @@
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\bin\Debug\net9.0\11conditionalStranded.exe
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\bin\Debug\net9.0\11conditionalStranded.deps.json
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\bin\Debug\net9.0\11conditionalStranded.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\bin\Debug\net9.0\11conditionalStranded.dll
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\bin\Debug\net9.0\11conditionalStranded.pdb
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\obj\Debug\net9.0\11conditionalStranded.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\obj\Debug\net9.0\11conditionalStranded.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\obj\Debug\net9.0\11conditionalStranded.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\obj\Debug\net9.0\11conditionalStranded.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\obj\Debug\net9.0\11conditionalStranded.sourcelink.json
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\obj\Debug\net9.0\11conditionalStranded.dll
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\obj\Debug\net9.0\refint\11conditionalStranded.dll
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\obj\Debug\net9.0\11conditionalStranded.pdb
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\obj\Debug\net9.0\11conditionalStranded.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\11conditionalStranded\obj\Debug\net9.0\ref\11conditionalStranded.dll

@@ -1,0 +1,15 @@
+C:\DEV\logica_algoritmos-C#\09logicOP\bin\Debug\net9.0\09logicOP.exe
+C:\DEV\logica_algoritmos-C#\09logicOP\bin\Debug\net9.0\09logicOP.deps.json
+C:\DEV\logica_algoritmos-C#\09logicOP\bin\Debug\net9.0\09logicOP.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\09logicOP\bin\Debug\net9.0\09logicOP.dll
+C:\DEV\logica_algoritmos-C#\09logicOP\bin\Debug\net9.0\09logicOP.pdb
+C:\DEV\logica_algoritmos-C#\09logicOP\obj\Debug\net9.0\09logicOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\09logicOP\obj\Debug\net9.0\09logicOP.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\09logicOP\obj\Debug\net9.0\09logicOP.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\09logicOP\obj\Debug\net9.0\09logicOP.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\09logicOP\obj\Debug\net9.0\09logicOP.sourcelink.json
+C:\DEV\logica_algoritmos-C#\09logicOP\obj\Debug\net9.0\09logicOP.dll
+C:\DEV\logica_algoritmos-C#\09logicOP\obj\Debug\net9.0\refint\09logicOP.dll
+C:\DEV\logica_algoritmos-C#\09logicOP\obj\Debug\net9.0\09logicOP.pdb
+C:\DEV\logica_algoritmos-C#\09logicOP\obj\Debug\net9.0\09logicOP.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\09logicOP\obj\Debug\net9.0\ref\09logicOP.dll

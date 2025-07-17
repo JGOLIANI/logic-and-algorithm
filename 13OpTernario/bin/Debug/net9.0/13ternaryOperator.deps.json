@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "13ternaryOperator/1.0.0": {
+        "runtime": {
+          "13ternaryOperator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "13ternaryOperator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

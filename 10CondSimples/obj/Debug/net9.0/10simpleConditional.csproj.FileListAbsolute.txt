@@ -1,0 +1,15 @@
+C:\DEV\logica_algoritmos-C#\10simpleConditional\bin\Debug\net9.0\10simpleConditional.exe
+C:\DEV\logica_algoritmos-C#\10simpleConditional\bin\Debug\net9.0\10simpleConditional.deps.json
+C:\DEV\logica_algoritmos-C#\10simpleConditional\bin\Debug\net9.0\10simpleConditional.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\10simpleConditional\bin\Debug\net9.0\10simpleConditional.dll
+C:\DEV\logica_algoritmos-C#\10simpleConditional\bin\Debug\net9.0\10simpleConditional.pdb
+C:\DEV\logica_algoritmos-C#\10simpleConditional\obj\Debug\net9.0\10simpleConditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\10simpleConditional\obj\Debug\net9.0\10simpleConditional.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\10simpleConditional\obj\Debug\net9.0\10simpleConditional.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\10simpleConditional\obj\Debug\net9.0\10simpleConditional.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\10simpleConditional\obj\Debug\net9.0\10simpleConditional.sourcelink.json
+C:\DEV\logica_algoritmos-C#\10simpleConditional\obj\Debug\net9.0\10simpleConditional.dll
+C:\DEV\logica_algoritmos-C#\10simpleConditional\obj\Debug\net9.0\refint\10simpleConditional.dll
+C:\DEV\logica_algoritmos-C#\10simpleConditional\obj\Debug\net9.0\10simpleConditional.pdb
+C:\DEV\logica_algoritmos-C#\10simpleConditional\obj\Debug\net9.0\10simpleConditional.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\10simpleConditional\obj\Debug\net9.0\ref\10simpleConditional.dll

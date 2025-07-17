@@ -1,0 +1,15 @@
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\obj\Debug\net9.0\12conditional_op_logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\obj\Debug\net9.0\12conditional_op_logic.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\obj\Debug\net9.0\12conditional_op_logic.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\obj\Debug\net9.0\12conditional_op_logic.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\obj\Debug\net9.0\12conditional_op_logic.sourcelink.json
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\bin\Debug\net9.0\12conditional_op_logic.exe
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\bin\Debug\net9.0\12conditional_op_logic.deps.json
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\bin\Debug\net9.0\12conditional_op_logic.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\bin\Debug\net9.0\12conditional_op_logic.dll
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\bin\Debug\net9.0\12conditional_op_logic.pdb
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\obj\Debug\net9.0\12conditional_op_logic.dll
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\obj\Debug\net9.0\refint\12conditional_op_logic.dll
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\obj\Debug\net9.0\12conditional_op_logic.pdb
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\obj\Debug\net9.0\12conditional_op_logic.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\12conditional_op_logic\obj\Debug\net9.0\ref\12conditional_op_logic.dll
