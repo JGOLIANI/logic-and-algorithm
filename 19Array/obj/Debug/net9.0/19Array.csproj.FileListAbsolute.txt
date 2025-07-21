@@ -1,0 +1,15 @@
+C:\DEV\logica_algoritmos-C#\19Array\obj\Debug\net9.0\19Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\19Array\obj\Debug\net9.0\19Array.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\19Array\obj\Debug\net9.0\19Array.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\19Array\obj\Debug\net9.0\19Array.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\19Array\obj\Debug\net9.0\19Array.sourcelink.json
+C:\DEV\logica_algoritmos-C#\19Array\bin\Debug\net9.0\19Array.exe
+C:\DEV\logica_algoritmos-C#\19Array\bin\Debug\net9.0\19Array.deps.json
+C:\DEV\logica_algoritmos-C#\19Array\bin\Debug\net9.0\19Array.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\19Array\bin\Debug\net9.0\19Array.dll
+C:\DEV\logica_algoritmos-C#\19Array\bin\Debug\net9.0\19Array.pdb
+C:\DEV\logica_algoritmos-C#\19Array\obj\Debug\net9.0\19Array.dll
+C:\DEV\logica_algoritmos-C#\19Array\obj\Debug\net9.0\refint\19Array.dll
+C:\DEV\logica_algoritmos-C#\19Array\obj\Debug\net9.0\19Array.pdb
+C:\DEV\logica_algoritmos-C#\19Array\obj\Debug\net9.0\19Array.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\19Array\obj\Debug\net9.0\ref\19Array.dll

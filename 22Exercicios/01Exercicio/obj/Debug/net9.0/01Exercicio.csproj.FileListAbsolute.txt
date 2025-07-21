@@ -1,0 +1,15 @@
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\bin\Debug\net9.0\01Exercicio.exe
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\bin\Debug\net9.0\01Exercicio.deps.json
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\bin\Debug\net9.0\01Exercicio.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\bin\Debug\net9.0\01Exercicio.dll
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\bin\Debug\net9.0\01Exercicio.pdb
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\obj\Debug\net9.0\01Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\obj\Debug\net9.0\01Exercicio.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\obj\Debug\net9.0\01Exercicio.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\obj\Debug\net9.0\01Exercicio.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\obj\Debug\net9.0\01Exercicio.sourcelink.json
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\obj\Debug\net9.0\01Exercicio.dll
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\obj\Debug\net9.0\refint\01Exercicio.dll
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\obj\Debug\net9.0\01Exercicio.pdb
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\obj\Debug\net9.0\01Exercicio.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\22Exercicios\01Exercicio\obj\Debug\net9.0\ref\01Exercicio.dll

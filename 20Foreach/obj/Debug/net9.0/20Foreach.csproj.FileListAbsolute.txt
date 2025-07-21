@@ -1,0 +1,15 @@
+C:\DEV\logica_algoritmos-C#\20Foreach\obj\Debug\net9.0\20Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\20Foreach\obj\Debug\net9.0\20Foreach.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\20Foreach\obj\Debug\net9.0\20Foreach.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\20Foreach\obj\Debug\net9.0\20Foreach.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\20Foreach\obj\Debug\net9.0\20Foreach.sourcelink.json
+C:\DEV\logica_algoritmos-C#\20Foreach\bin\Debug\net9.0\20Foreach.exe
+C:\DEV\logica_algoritmos-C#\20Foreach\bin\Debug\net9.0\20Foreach.deps.json
+C:\DEV\logica_algoritmos-C#\20Foreach\bin\Debug\net9.0\20Foreach.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\20Foreach\bin\Debug\net9.0\20Foreach.dll
+C:\DEV\logica_algoritmos-C#\20Foreach\bin\Debug\net9.0\20Foreach.pdb
+C:\DEV\logica_algoritmos-C#\20Foreach\obj\Debug\net9.0\20Foreach.dll
+C:\DEV\logica_algoritmos-C#\20Foreach\obj\Debug\net9.0\refint\20Foreach.dll
+C:\DEV\logica_algoritmos-C#\20Foreach\obj\Debug\net9.0\20Foreach.pdb
+C:\DEV\logica_algoritmos-C#\20Foreach\obj\Debug\net9.0\20Foreach.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\20Foreach\obj\Debug\net9.0\ref\20Foreach.dll

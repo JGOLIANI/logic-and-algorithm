@@ -1,0 +1,15 @@
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\obj\Debug\net9.0\02Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\obj\Debug\net9.0\02Exercicio.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\obj\Debug\net9.0\02Exercicio.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\obj\Debug\net9.0\02Exercicio.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\obj\Debug\net9.0\02Exercicio.sourcelink.json
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\bin\Debug\net9.0\02Exercicio.exe
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\bin\Debug\net9.0\02Exercicio.deps.json
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\bin\Debug\net9.0\02Exercicio.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\bin\Debug\net9.0\02Exercicio.dll
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\bin\Debug\net9.0\02Exercicio.pdb
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\obj\Debug\net9.0\02Exercicio.dll
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\obj\Debug\net9.0\refint\02Exercicio.dll
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\obj\Debug\net9.0\02Exercicio.pdb
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\obj\Debug\net9.0\02Exercicio.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\22Exercicios\02Exercicio\obj\Debug\net9.0\ref\02Exercicio.dll

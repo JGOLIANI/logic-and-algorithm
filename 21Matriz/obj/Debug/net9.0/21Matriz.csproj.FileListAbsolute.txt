@@ -1,0 +1,15 @@
+C:\DEV\logica_algoritmos-C#\21Matriz\obj\Debug\net9.0\21Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\logica_algoritmos-C#\21Matriz\obj\Debug\net9.0\21Matriz.AssemblyInfoInputs.cache
+C:\DEV\logica_algoritmos-C#\21Matriz\obj\Debug\net9.0\21Matriz.AssemblyInfo.cs
+C:\DEV\logica_algoritmos-C#\21Matriz\obj\Debug\net9.0\21Matriz.csproj.CoreCompileInputs.cache
+C:\DEV\logica_algoritmos-C#\21Matriz\obj\Debug\net9.0\21Matriz.sourcelink.json
+C:\DEV\logica_algoritmos-C#\21Matriz\bin\Debug\net9.0\21Matriz.exe
+C:\DEV\logica_algoritmos-C#\21Matriz\bin\Debug\net9.0\21Matriz.deps.json
+C:\DEV\logica_algoritmos-C#\21Matriz\bin\Debug\net9.0\21Matriz.runtimeconfig.json
+C:\DEV\logica_algoritmos-C#\21Matriz\bin\Debug\net9.0\21Matriz.dll
+C:\DEV\logica_algoritmos-C#\21Matriz\bin\Debug\net9.0\21Matriz.pdb
+C:\DEV\logica_algoritmos-C#\21Matriz\obj\Debug\net9.0\21Matriz.dll
+C:\DEV\logica_algoritmos-C#\21Matriz\obj\Debug\net9.0\refint\21Matriz.dll
+C:\DEV\logica_algoritmos-C#\21Matriz\obj\Debug\net9.0\21Matriz.pdb
+C:\DEV\logica_algoritmos-C#\21Matriz\obj\Debug\net9.0\21Matriz.genruntimeconfig.cache
+C:\DEV\logica_algoritmos-C#\21Matriz\obj\Debug\net9.0\ref\21Matriz.dll
