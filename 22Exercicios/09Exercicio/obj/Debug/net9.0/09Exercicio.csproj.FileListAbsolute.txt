@@ -1,0 +1,15 @@
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\obj\Debug\net9.0\09Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\obj\Debug\net9.0\09Exercicio.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\obj\Debug\net9.0\09Exercicio.AssemblyInfo.cs
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\obj\Debug\net9.0\09Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\obj\Debug\net9.0\09Exercicio.sourcelink.json
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\bin\Debug\net9.0\09Exercicio.exe
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\bin\Debug\net9.0\09Exercicio.deps.json
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\bin\Debug\net9.0\09Exercicio.runtimeconfig.json
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\bin\Debug\net9.0\09Exercicio.dll
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\bin\Debug\net9.0\09Exercicio.pdb
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\obj\Debug\net9.0\09Exercicio.dll
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\obj\Debug\net9.0\refint\09Exercicio.dll
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\obj\Debug\net9.0\09Exercicio.pdb
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\obj\Debug\net9.0\09Exercicio.genruntimeconfig.cache
+C:\Users\guilh\source\repos\JGOLIANI\logic-and-algorithm\22Exercicios\09Exercicio\obj\Debug\net9.0\ref\09Exercicio.dll
